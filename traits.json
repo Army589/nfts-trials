@@ -1,0 +1,20 @@
+{
+  "head": [
+    { "id": "h1", "display": "Head 1", "weight": 6 },
+    { "id": "h2", "display": "Head 2", "weight": 3 },
+    { "id": "h3", "display": "Head 3", "weight": 1 }
+  ],
+  "body": [
+    { "id": "b1", "display": "Body 1", "weight": 5 },
+    { "id": "b2", "display": "Body 2", "weight": 3 },
+    { "id": "b3", "display": "Body 3", "weight": 2 }
+  ],
+  "eyes": [
+    { "id": "e1", "display": "Eyes 1", "weight": 7 },
+    { "id": "e2", "display": "Eyes 2", "weight": 3 }
+  ],
+  "bg": [
+    { "id": "g1", "display": "BG 1", "weight": 6 },
+    { "id": "g2", "display": "BG 2", "weight": 4 }
+  ]
+}
